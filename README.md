@@ -1,2 +1,2 @@
-# asa_suzano
-Testing Repo for Training Purposes
+# Analystics Skills Accelerator - Suzano
+Repositório de teste para treinamento
